@@ -43,15 +43,17 @@ jupyter notebook titanic_eda.ipynb
 
 4. **Download the data**
    Make sure train.csv and test.csv are present in the directory. You can download them from the Kaggle Titanic competition page.
+   
+---
 
-📊 Model Performance
+## 📊 Model Performance
 Algorithm: Logistic Regression
 
 Public Kaggle Score: 0.7703 (77.03%)
 
 Evaluation Metric: Accuracy
-
-🔧 Feature Engineering
+---
+## 🔧 Feature Engineering
 Extracted titles from names (e.g., Mr, Miss, etc.)
 
 Created binary flags for Cabin availability and multiple cabins
