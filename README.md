@@ -16,14 +16,14 @@ This project explores the famous [Titanic dataset](https://www.kaggle.com/compet
 ---
 
 ## 🗂️ Folder Structure
-
+<PRE>
 TitanicDataset-Eda-Logistic/
 ├── titanic_eda.ipynb # Full analysis and model notebook
 ├── submission.csv # Final predictions for Kaggle submission
 ├── train.csv # Training dataset (optional to upload)
 ├── test.csv # Test dataset (optional to upload)
 └── README.md # This file
-
+</PRE>
 
 ---
 
